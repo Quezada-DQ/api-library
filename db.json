@@ -1,0 +1,88 @@
+{
+    "books": [
+        {
+            "id": 101,
+            "name": "El nombre del viento",
+            "author": "Patrick Rothfuss",
+            "year": 2007
+        },
+        {
+            "id": 102,
+            "name": "La llamada de Cuthulu",
+            "author": "HP Lovecraft",
+            "year": 1981
+        },
+        {
+            "id": 103,
+            "name": "Enriquillo",
+            "author": "Manuel de Jesús Galván",
+            "year": 1879
+        },
+        {
+            "id": 104,
+            "name": "Over",
+            "author": "Ramón Marrero Aristy",
+            "year": 1939
+        },
+        {
+            "id": 105,
+            "name": "La mañosa",
+            "author": "Juan Bosch",
+            "year": 1936
+        },
+        {
+            "id": 106,
+            "name": "El hombre del acordeón",
+            "author": "Marcio Veloz Maggiolo",
+            "year": 2003
+        },
+        {
+            "id": 107,
+            "name": "Solo cenizas hallarás",
+            "author": "Pedro Vergés",
+            "year": 1980
+        },
+        {
+            "id": 108,
+            "name": "Cuando amaban las tierras comuneras",
+            "author": "Marcio Veloz Maggiolo",
+            "year": 1997
+        },
+        {
+            "id": 109,
+            "name": "Rumbo al puerto perdido",
+            "author": "Manuel Salvador Gautier",
+            "year": 1993
+        },
+        {
+            "id": 110,
+            "name": "El oro y la paz",
+            "author": "Juan Bosch",
+            "year": 1975
+        },
+        {
+            "id": 111,
+            "name": "Cuentos escritos en el exilio",
+            "author": "Juan Bosch",
+            "year": 1962
+        },
+        {
+            "id": 112,
+            "name": "La biografía difusa de Sombra Castañeda",
+            "author": "René del Risco Bermúdez",
+            "year": 1967
+        },
+        {
+            "id": 113,
+            "name": "Meridiano de sangre",
+            "author": "Cormack McCarthy",
+            "year": 1981
+        },
+        {
+            "id": 114,
+            "name": "Cañaveral de cojones",
+            "author": "Cormack McCarthy",
+            "year": 1981
+        }
+    ]
+}
